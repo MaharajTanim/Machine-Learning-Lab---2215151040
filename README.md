@@ -1,7 +1,6 @@
-# Machine-Learning-Lab-2215151040
-[# 👕👟 Fashion Forward: Classifying Apparel with Deep Learning 🛍️✨
+# 👕👟 Fashion Forward: Classifying Apparel with Deep Learning 🛍️✨
 
-This project dives into the exciting world of **image classification** using **Convolutional Neural Networks (CNNs)**. my mission? To accurately classify fashion items from the popular **Fashion MNIST dataset**. Whether you're a machine learning enthusiast or just curious about how AI "sees" clothes, you'll find a practical demonstration here of building and training a CNN to recognize different types of apparel. Get ready to explore the code and see a deep learning model in action! 🚀
+Welcome to this repository! This project dives into the exciting world of **image classification** using **Convolutional Neural Networks (CNNs)**. My mission? To accurately classify fashion items from the popular **Fashion MNIST dataset**. Whether you're a machine learning enthusiast or just curious about how AI "sees" clothes, you'll find a practical demonstration here of building and training a CNN to recognize different types of apparel. Get ready to explore the code and see a deep learning model in action! 🚀
 
 ## 1. Dataset
 
@@ -54,4 +53,3 @@ A simple Convolutional Neural Network (CNN) architecture was employed for image 
 ---
 
 **Note:** The Google Colab notebook used for this project can be found [here](link_to_your_colab_notebook_on_github).
-](https://github.com/MaharajTanim/Machine-Learning-Lab---2215151040)
