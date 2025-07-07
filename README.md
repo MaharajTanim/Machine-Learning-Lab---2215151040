@@ -51,5 +51,3 @@ A simple Convolutional Neural Network (CNN) architecture was employed for image 
 * **Google Colab** (for cloud-based execution with GPU acceleration)
 
 ---
-
-**Note:** The Google Colab notebook used for this project can be found [here](link_to_your_colab_notebook_on_github).
